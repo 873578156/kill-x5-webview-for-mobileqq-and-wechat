@@ -3,6 +3,9 @@
 
 安卓7.0之后，系统的webview由chrome执行，这是个令人振奋的好消息，但是由于某些傻逼厂家，自己开发了什么破烂x5，嗯，我说的你懂的，所以，我们要干掉这个破烂，以便让chrome执行。
 
+PS:如何查看是否是x5webview？
+在手机qq或者微信里任意打开一个网页，按住，并且往下拖，会显示“由QQ浏览器X5内核提供技术支持”
+
 ①打开终端
 ②输入su获取root权限
 ③输入命令 rm -rf /data/data/com.tencent.mobileqq/app_tbs
