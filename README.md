@@ -14,7 +14,7 @@ PS:如何查看是否是x5webview？
 
 ③输入命令 rm -rf /data/data/com.tencent.mobileqq/app_tbs
 
-④防止再次生成  /data/data/com.tencent.mobileqq/app_tbs
+④防止再次生成 touch /data/data/com.tencent.mobileqq/app_tbs
 
 ⑤输入命令 rm -rf /data/data/com.tencent.mm/app_tbs
 
