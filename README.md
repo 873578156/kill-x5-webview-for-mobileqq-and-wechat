@@ -12,12 +12,12 @@ PS:如何查看是否是x5webview？
 
 ②输入su获取root权限
 
-③输入命令 rm -rf /data/data/com.tencent.mobileqq/app_tbs
+③输入命令:rm -rf /data/data/com.tencent.mobileqq/app_tbs
 
-④防止再次生成 touch /data/data/com.tencent.mobileqq/app_tbs
+④防止再次生成:touch /data/data/com.tencent.mobileqq/app_tbs
 
-⑤输入命令 rm -rf /data/data/com.tencent.mm/app_tbs
+⑤输入命令:rm -rf /data/data/com.tencent.mm/app_tbs
 
-⑥防止再次生成 touch /data/data/com.tencent.mm/app_tbs
+⑥防止再次生成:touch /data/data/com.tencent.mm/app_tbs
 
 ⑦打开http://ie.icoa.cn/m 测试，或者在手机qq或者微信里任意打开一个网页，按住，并且往下拖，现在不会显示“由QQ浏览器X5内核提供技术支持”
