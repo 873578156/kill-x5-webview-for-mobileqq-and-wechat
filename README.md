@@ -20,4 +20,4 @@ PS:如何查看是否是x5webview？
 
 ⑥防止再次生成 touch /data/data/com.tencent.mm/app_tbs
 
-⑦打开http://ie.icoa.cn/m测试，或者在手机qq或者微信里任意打开一个网页，按住，并且往下拖，现在不会显示“由QQ浏览器X5内核提供技术支持”
+⑦打开http://ie.icoa.cn/m 测试，或者在手机qq或者微信里任意打开一个网页，按住，并且往下拖，现在不会显示“由QQ浏览器X5内核提供技术支持”
