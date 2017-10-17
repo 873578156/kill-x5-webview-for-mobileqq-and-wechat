@@ -1,5 +1,7 @@
 # kill_x5_webview_for_mobileqq_and_wechat
 
+PS:也可以在app自带浏览器内进入http://debugtbs.qq.com选择清除TBS，然后选择强制使用系统内核。
+
 两条命令，让qq和微信的X5webview内核混蛋
 
 安卓7.0之后，系统的webview由chrome执行，这是个令人振奋的好消息，但是由于某些傻逼厂家，自己开发了什么破烂x5，嗯，我说的你懂的，所以，我们要干掉这个破烂，以便让chrome执行。
